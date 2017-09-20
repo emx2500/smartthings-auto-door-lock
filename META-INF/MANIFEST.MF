@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Executable: smartapps/emx2500/automatic-door-lock-with-delay.src
+
+Name: automatic-door-lock-with-delay.groovy
+SHA1-Digest: a047e9c0b03a227974be3a2bfc586545772b17a5
+
+Name: i18n/messages.properties
+SHA1-Digest: da39a3ee5e6b4b0d3255bfef95601890afd80709
